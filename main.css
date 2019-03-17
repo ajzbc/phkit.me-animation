@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 750px;
+    height: 750px;
+    background-color: #DA552E;
+    text-align: center;
+    line-height: 720px;
+    display: inline;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: monospace;
+    font-size: 18em;
+}
